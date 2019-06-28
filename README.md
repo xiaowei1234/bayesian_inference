@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 # Bayesian Inference
 ### Xiao Wei
 bayesian regression modeling utilizing Gibbs Sampling
